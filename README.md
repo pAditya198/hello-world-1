@@ -1,4 +1,4 @@
 # hello-world
 This is a repository.
 
-This is a line.
+This is a sentence.
