@@ -1,3 +1,3 @@
 # hello-world
 
-*This is a sentence.
+* This is a sentence.
